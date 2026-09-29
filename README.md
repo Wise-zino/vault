@@ -266,9 +266,9 @@ This is the mobile frontend. The Django backend is in a separate repository:
 ## Author
 
 **Wise Zino**
-- Portfolio: [wisezino.vercel.app]
+- Portfolio: [https://wisezino.vercel.app]
 - GitHub: [@Wise-zino](https://github.com/Wise-zino)
-- LinkedIn: [wise-ewomazino](https://linkedin.com/in/wise-ewomazino)
+- LinkedIn: [wise-ewomazino](https://linkedin.com/in/wise-ewomazino-6b13b3405)
 
 ---
 
