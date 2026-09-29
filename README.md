@@ -3,7 +3,7 @@
 > A  multi-currency wallet and live forex analytics mobile app — built with React Native and Expo.
 
 <br />
-<img width="1079" height="2129" alt="1790707467494" src="https://github.com/user-attachments/assets/29d1daac-969f-4c32-9aa2-4a78133144f0" />
+<img width="107" height="212" alt="1790707467494" src="https://github.com/user-attachments/assets/29d1daac-969f-4c32-9aa2-4a78133144f0" />
 
 <br />
 
