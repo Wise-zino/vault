@@ -3,6 +3,9 @@
 > A  multi-currency wallet and live forex analytics mobile app — built with React Native and Expo.
 
 <br />
+<img width="1079" height="2129" alt="1790707467494" src="https://github.com/user-attachments/assets/29d1daac-969f-4c32-9aa2-4a78133144f0" />
+
+<br />
 
 <br />
 
@@ -68,8 +71,9 @@ Designed with a dark trading terminal aesthetic: deep navy backgrounds, electric
 
 | Login | Register |
 |---|---|
-| <!-- Screenshot: Login screen with VAULT branding, ticker, and ACCESS ACCOUNT button --> | <!-- Screenshot: Register screen with feature list card at bottom --> |
-| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) |
+| <img width="1080" height="2380" alt="Screenshot_20260929-194722" src="https://github.com/user-attachments/assets/121f2b71-28aa-43da-9a27-e6e7d5377e7f" />
+ | <img width="1080" height="2400" alt="Screenshot_20260929-194735" src="https://github.com/user-attachments/assets/d4dae044-f1f4-4592-9663-417d8ed3118f" />
+ |
 
 <br />
 
@@ -77,7 +81,10 @@ Designed with a dark trading terminal aesthetic: deep navy backgrounds, electric
 
 | Home — Balances | Conversion Modal | Deposit Modal |
 |---|---|---|
-| ![Wallet Home](screenshots/wallet_home.png) | ![Convert](screenshots/convert_modal.png) | ![Deposit](screenshots/deposit_modal.png) |
+| <img width="1080" height="2400" alt="Screenshot_20260929-194816" src="https://github.com/user-attachments/assets/dc6f3a73-3b5f-4671-bb7a-05f53306a89c" />
+ | <img width="1080" height="2400" alt="Screenshot_20260929-194835" src="https://github.com/user-attachments/assets/ef86faff-7093-4753-a3b7-3055bfb0c63f" />
+ | <img width="1080" height="2400" alt="Screenshot_20260929-194857" src="https://github.com/user-attachments/assets/588dedd5-5e1c-447c-ad11-1f0faea958d4" />
+ |
 
 <br />
 
@@ -85,7 +92,10 @@ Designed with a dark trading terminal aesthetic: deep navy backgrounds, electric
 
 | Live Rates Grid | 90-Day Chart — EUR/USD | Pair Selector |
 |---|---|---|
-| ![Live Rates](screenshots/live_rates.png) | ![Chart](screenshots/chart_eurusd.png) | ![Pairs](screenshots/pair_selector.png) |
+| <img width="1080" height="2400" alt="Screenshot_20260929-194942" src="https://github.com/user-attachments/assets/da17f5ba-0b11-4f7a-b789-625561aa71e9" />
+ | <img width="1080" height="2400" alt="Screenshot_20260929-194956" src="https://github.com/user-attachments/assets/2ee99ede-4d78-4c68-b416-84313ce5b58c" />
+ | <img width="1080" height="2400" alt="Screenshot_20260929-195010" src="https://github.com/user-attachments/assets/b62a1193-c561-4f2f-b53a-9962cb1ac78a" />
+ |
 
 <br />
 
@@ -93,13 +103,16 @@ Designed with a dark trading terminal aesthetic: deep navy backgrounds, electric
 
 | All Transactions | Filtered View |
 |---|---|
-| ![Transactions](screenshots/transactions.png) | ![Filtered](screenshots/transactions_filtered.png) |
+| <img width="1080" height="2400" alt="Screenshot_20260929-195309" src="https://github.com/user-attachments/assets/228aada5-03db-44a3-825a-3b03824e1a4d" />
+ | <img width="1080" height="2400" alt="Screenshot_20260929-195317" src="https://github.com/user-attachments/assets/ac01b9fc-ecd5-49e2-bfe8-0eba1852d7fb" />
+ |
 
 <br />
 
 ### Account & Settings
 
-![Settings](screenshots/settings.png)
+<img width="1080" height="2400" alt="Screenshot_20260929-202637" src="https://github.com/user-attachments/assets/f23d120b-9e56-45ec-9984-65660a8b556c" />
+
 
 ---
 
